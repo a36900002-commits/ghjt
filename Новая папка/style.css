@@ -1,0 +1,67 @@
+body{
+    background: slategrey;
+
+
+}
+.РЕЗЮМЕ {
+    text-align: center;
+    font-size: 50px;
+}
+.имя {
+    margin: 10px;
+    background-color: ;
+    border-radius: 5px;
+    border: 1px solid black;
+    padding: 3px;
+}
+.фамилия {
+    margin: 10px;
+    background-color: ;
+    border-radius: 5px;
+    border: 1px solid black;
+    padding: 3px;
+}
+.отчество {
+    margin: 10px;
+    background-color: ;
+    border-radius: 5px;
+    border: 1px solid black;
+    padding: 3px;
+}
+.пол {
+    margin: 10px;
+    background-color: ;
+    border-radius: 5px;
+    border: 1px solid black;
+    padding: 3px;
+}
+.рождение {
+    margin: 10px;
+    background-color: ;
+    border-radius: 5px;
+    border: 1px solid black;
+    padding: 3px;
+}
+.телефон {
+    margin: 10px;
+    background-color: ;
+    border-radius: 5px;
+    border: 1px solid black;
+    padding: 3px;
+}
+.кнопка {
+   margin: 10px;
+    background-color: ;
+    border-radius: 5px;
+    border: 1px solid black;
+    padding: 3px; 
+}
+.img{
+    border-radius: 50px;
+    box-shadow: none;
+    border: 1px solid black;
+}
+#фото {
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
